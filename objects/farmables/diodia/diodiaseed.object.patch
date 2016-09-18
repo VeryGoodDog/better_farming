@@ -1,0 +1,10 @@
+
+[
+	
+	{
+		"op":"replace",
+		"path":"/stages/2",
+		"value": 
+		{"alts" : 5,  "harvestPool" : "diodiaHarvest", "resetToStage" : 0} 
+}
+]

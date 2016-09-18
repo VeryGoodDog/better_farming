@@ -1,0 +1,72 @@
+[{
+ "op":"remove",
+ "path":"/boltbulbHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/carrotHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/currentcornHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/diodiaHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/dirturchinHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/eggshootHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/feathercrownHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/kiwiHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/neonmelonHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/oculemonHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/pineappleHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/potatoHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/pussplumHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/reefpodHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/sugarcaneHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/toxictopHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/wartweedHarvest/0/1/fill"
+},
+{
+ "op":"remove",
+ "path":"/wheatHarvest/0/1/fill"
+}]

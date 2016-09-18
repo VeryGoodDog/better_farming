@@ -1,0 +1,19 @@
+
+[
+	{
+		"op":"add",
+		"path":"/consumeSoilMoisture",
+		"value":false
+	},
+	{
+		"op":"replace",
+		"path":"/maxImmersion",
+		"value":0.67
+	},
+	{
+		"op":"replace",
+		"path":"/stages/2",
+		"value": 
+		{"alts" : 5,  "harvestPool" : "riceHarvest", "resetToStage" : 0} 
+	}
+]

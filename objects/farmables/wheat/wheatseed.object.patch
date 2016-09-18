@@ -1,0 +1,14 @@
+
+[
+	{
+		"op":"replace",
+		"path":"/orientations/0/spaces",
+		"value":[ [0, 0],[0, 1],[0, 2], [0, 3] ]
+	},
+	{
+		"op":"replace",
+		"path":"/stages/2",
+		"value": 
+		{"alts" : 5,  "harvestPool" : "wheatHarvest", "resetToStage" : 0} 
+}
+]

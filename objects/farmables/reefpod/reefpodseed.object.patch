@@ -1,0 +1,9 @@
+
+[
+	{
+		"op":"replace",
+		"path":"/stages/2",
+		"value": 
+		{"alts" : 5,  "harvestPool" : "reefpodHarvest", "resetToStage" : 0} 
+}
+]
