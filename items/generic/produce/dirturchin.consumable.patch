@@ -1,9 +1,4 @@
-{
-  [
-	{
-		"op":"remove",
-		"path":"/builder"
-	},
+[
 	{
 		"op":"replace",
 		"path":"/maxStack",

@@ -18,9 +18,8 @@ function ageItem(baseItem, aging)
 
   return baseItem
 end
---]]
 
---[[
+
 function getRotTimeDescription(rotTime)
   local descList = root.assetJson("/items/rotting.config:rotTimeDescriptions")
   for i, desc in ipairs(descList) do
