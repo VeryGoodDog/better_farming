@@ -1,7 +1,7 @@
 --[[
 function ageItem(baseItem, aging)
   if baseItem.parameters.timeToRot then
-  baseItem.parameters.timeToRot = baseItem.parameters.timeToRot - aging
+    baseItem.parameters.timeToRot = baseItem.parameters.timeToRot - aging
 
     baseItem.parameters.tooltipFields = baseItem.parameters.tooltipFields or {}
     baseItem.parameters.tooltipFields.rotTimeLabel = getRotTimeDescription(baseItem.parameters.timeToRot)
@@ -18,7 +18,6 @@ function ageItem(baseItem, aging)
 
   return baseItem
 end
-
 
 function getRotTimeDescription(rotTime)
   local descList = root.assetJson("/items/rotting.config:rotTimeDescriptions")
