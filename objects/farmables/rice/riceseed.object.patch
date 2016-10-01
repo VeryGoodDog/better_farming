@@ -12,7 +12,7 @@
 	},
 	{
 		"op":"replace",
-		"path":"/stages/2",
+		"path":"/stages/3",
 		"value": 
 		{"alts" : 5,  "harvestPool" : "riceHarvest", "resetToStage" : 0} 
 	}
