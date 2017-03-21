@@ -1,0 +1,884 @@
+{
+  "automatoHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "automato"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "automatoseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "avesmingoHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "avesmingo"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "avesmingoseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "bananaHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "banana"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "bananaseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "beakseedHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "beakseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "beakseedseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "boltbulbHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "boltbulb"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "boltbulbseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "bonebooHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "boneboo"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "bonebooseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "carrotHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "carrot"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "carrotseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "chiliHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "chili"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "chiliseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "coffeeHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "coffeebeans"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "coffeeseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "cocoaHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "cocoa"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "cocoaseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "coralcreepHarvest" : [
+    [0, {
+      "fill" : [
+      {"item" : "coralcreep"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "coralcreepseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "cornHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "corn"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "cornseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "cottonHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "cotton"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "cottonseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "crystalplantHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "crystalplant"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "crystalplantseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "currentcornHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "currentcorn"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "currentcornseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "diodiaHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "diodia"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "diodiaseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "dirturchinHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "dirturchin"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "dirturchinseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "eggshootHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "eggshoot"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "eggshootseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "feathercrownHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "feathercrown"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "feathercrownseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "grapesHarvest" : [
+    [0, {
+      "fill" : [
+      {"item" : "grapes"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "grapesseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "kiwiHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "kiwi"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "kiwiseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "neonmelonHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "neonmelon"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "neonmelonseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "oculemonHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "oculemon"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "oculemonseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "pearlpeaHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "pearlpea"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "pearlpeaseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "pineappleHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "pineapple"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "pineappleseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "potatoHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "potato"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "potatoseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "pussplumHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "pussplum"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "pussplumseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "reefpodHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "reefpod"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "reefpodseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "riceHarvest" : [
+    [0, {
+      "fill" : [
+          {"item" : "rice"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "riceseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "sugarcaneHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "sugar"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "sugarcaneseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "tomatoHarvest" : [
+    [0, {
+      "fill" : [
+          {"item" : "tomato"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "tomatoseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "toxictopHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "toxictop"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "toxictopseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "wartweedHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "wartweed"}
+      ],
+      "pool" : [
+        {"weight" : 0.01, "item" : "wartweedseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "wheatHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "wheatseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "wheat"},
+        {"weight" : 0.01, "item" : "wheatseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "mushroomHarvest" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "shroom"}
+      ],
+      "poolRounds" : [
+        [0.7, 1],
+        [0.3, 2]
+      ]
+    } ]
+  ],
+  "flowerredHarvest" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "petalred"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.3, 2],
+        [0.1, 3]
+      ]
+    } ]
+  ],
+  "flowerblueHarvest" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "petalblue"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.3, 2],
+        [0.1, 3]
+      ]
+    } ]
+  ],
+  "flowerspringHarvest" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "petalblue"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.3, 2],
+        [0.1, 3]
+      ]
+    } ]
+  ],
+  "floweryellowHarvest" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "petalyellow"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.3, 2],
+        [0.1, 3]
+      ]
+    } ]
+  ],
+  "thornplantHarvest" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "thornfruit"}
+      ],
+      "poolRounds" : [
+        [0.4, 1],
+        [0.4, 2],
+        [0.2, 3]
+      ]
+    } ]
+  ],
+  "silkHarvest" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "silkfibre"}
+      ],
+      "poolRounds" : [
+        [0.33, 1],
+        [0.34, 2],
+        [0.33, 3]
+      ]
+    } ]
+  ],
+  "wildboltbulbHarvest" : [
+     [0, {
+       "fill" : [
+         {"item" : "boltbulbseed"},
+         {"item" : "boltbulb"}
+       ],
+       "pool" : [
+         {"weight" : 0.5, "item" : "boltbulbseed"},
+         {"weight" : 0.5, "item" : "plantfibre"}
+       ],
+       "poolRounds" : [
+         [0.6, 1],
+         [0.4, 2]
+       ]
+    }]
+  ],
+  "wildcarrotHarvest" : [
+      [0, {
+        "fill" : [
+          {"item" : "carrotseed"},
+          {"item" : "carrot"}
+        ],
+        "pool" : [
+          {"weight" : 0.5, "item" : "carrotseed"},
+          {"weight" : 0.5, "item" : "plantfibre"}
+        ],
+        "poolRounds" : [
+          [0.6, 1],
+          [0.4, 2]
+        ]
+      } ]
+    ],
+  "wildcurrentcornHarvest" : [
+     [0, {
+       "fill" : [
+         {"item" : "currentcornseed"},
+         {"item" : "currentcorn"}
+       ],
+       "pool" : [
+         {"weight" : 0.5, "item" : "currentcornseed"},
+         {"weight" : 0.5, "item" : "plantfibre"}
+       ],
+       "poolRounds" : [
+         [0.6, 1],
+         [0.4, 2]
+       ]
+     } ]
+    ],
+  "wilddiodiaHarvest" : [
+     [0, {
+       "fill" : [
+         {"item" : "diodiaseed"},
+         {"item" : "diodia"}
+       ],
+       "pool" : [
+         {"weight" : 0.5, "item" : "diodiaseed"},
+         {"weight" : 0.5, "item" : "plantfibre"}
+       ],
+       "poolRounds" : [
+         [0.6, 1],
+         [0.4, 2]
+       ]
+     } ]
+    ],
+  "wilddirturchinHarvest" : [
+      [0, {
+        "fill" : [
+          {"item" : "dirturchinseed"},
+          {"item" : "dirturchin"}
+        ],
+        "pool" : [
+          {"weight" : 0.5, "item" : "dirturchinseed"},
+          {"weight" : 0.5, "item" : "plantfibre"}
+        ],
+        "poolRounds" : [
+          [0.6, 1],
+          [0.4, 2]
+        ]
+      } ]
+    ],
+  "wildeggshootHarvest" : [
+     [0, {
+       "fill" : [
+         {"item" : "eggshootseed"},
+         {"item" : "eggshoot"}
+       ],
+       "pool" : [
+         {"weight" : 0.5, "item" : "eggshootseed"},
+         {"weight" : 0.5, "item" : "plantfibre"}
+       ],
+       "poolRounds" : [
+         [0.6, 1],
+         [0.4, 2]
+       ]
+     } ]
+   ],
+  "wildfeathercrownHarvest" : [
+    [0, {
+       "fill" : [
+         {"item" : "feathercrownseed"},
+         {"item" : "feathercrown"}
+       ],
+       "pool" : [
+         {"weight" : 0.5, "item" : "feathercrownseed"},
+         {"weight" : 0.5, "item" : "plantfibre"}
+       ],
+       "poolRounds" : [
+         [0.6, 1],
+         [0.4, 2]
+       ]
+     } ]
+   ],
+   "wildkiwiHarvest" : [
+      [0, {
+        "fill" : [
+          {"item" : "kiwiseed"},
+          {"item" : "kiwi"}
+        ],
+        "pool" : [
+          {"weight" : 0.5, "item" : "kiwiseed"},
+          {"weight" : 0.5, "item" : "plantfibre"}
+        ],
+        "poolRounds" : [
+          [0.6, 1],
+          [0.4, 2]
+        ]
+      } ]
+    ],
+  "wildneonmelonHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "neonmelonseed"},
+        {"item" : "neonmelon"}
+      ],
+      "pool" : [
+        {"weight" : 0.5, "item" : "neonmelonseed"},
+        {"weight" : 0.5, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    }]
+  ],
+  "wildoculemonHarvest" : [
+     [0, {
+       "fill" : [
+         {"item" : "oculemonseed"},
+         {"item" : "oculemon"}
+       ],
+       "pool" : [
+         {"weight" : 0.5, "item" : "oculemonseed"},
+         {"weight" : 0.5, "item" : "plantfibre"}
+       ],
+       "poolRounds" : [
+         [0.6, 1],
+         [0.4, 2]
+       ]
+     } ]
+   ],
+   "wildpineappleHarvest" : [
+      [0, {
+        "fill" : [
+          {"item" : "pineappleseed"},
+          {"item" : "pineapple"}
+        ],
+        "pool" : [
+          {"weight" : 0.5, "item" : "pineappleseed"},
+          {"weight" : 0.5, "item" : "plantfibre"}
+        ],
+        "poolRounds" : [
+          [0.6, 1],
+          [0.4, 2]
+        ]
+      } ]
+    ],
+    "wildpotatoHarvest" : [
+       [0, {
+         "fill" : [
+           {"item" : "potatoseed"},
+           {"item" : "potato"}
+         ],
+         "pool" : [
+           {"weight" : 0.5, "item" : "potatoseed"},
+           {"weight" : 0.5, "item" : "plantfibre"}
+         ],
+         "poolRounds" : [
+           [0.6, 1],
+           [0.4, 2]
+         ]
+       } ]
+     ],
+  "wildpussplumHarvest" : [
+     [0, {
+       "fill" : [
+         {"item" : "pussplumseed"},
+         {"item" : "pussplum"}
+       ],
+       "pool" : [
+         {"weight" : 0.5, "item" : "pussplumseed"},
+         {"weight" : 0.5, "item" : "plantfibre"}
+       ],
+       "poolRounds" : [
+         [0.6, 1],
+         [0.4, 2]
+       ]
+     } ]
+  ],
+  "wildreefpodHarvest" : [
+     [0, {
+       "fill" : [
+         {"item" : "reefpodseed"},
+         {"item" : "reefpod"}
+       ],
+       "pool" : [
+         {"weight" : 0.5, "item" : "reefpodseed"},
+         {"weight" : 0.5, "item" : "plantfibre"}
+       ],
+       "poolRounds" : [
+         [0.6, 1],
+         [0.4, 2]
+       ]
+     } ]
+   ],
+  "wildsugarcaneHarvest" : [
+    [0, {
+      "fill" : [
+        {"item" : "sugarcaneseed"},
+        {"item" : "sugar"}
+      ],
+      "pool" : [
+        {"weight" : 0.5, "item" : "sugarcaneseed"},
+        {"weight" : 0.5, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  "wildtoxictopHarvest":[
+     [0, {
+       "fill" : [
+         {"item" : "toxictopseed"},
+         {"item" : "toxictop"}
+       ],
+       "pool" : [
+         {"weight" : 0.5, "item" : "toxictopseed"},
+         {"weight" : 0.5, "item" : "plantfibre"}
+       ],
+       "poolRounds" : [
+         [0.6, 1],
+         [0.4, 2]
+       ]
+     } ]
+   ],
+   "wildwartweedHarvest":[
+      [0, {
+        "fill" : [
+          {"item" : "wartweedseed"},
+          {"item" : "wartweed"}
+        ],
+        "pool" : [
+          {"weight" : 0.5, "item" : "wartweedseed"},
+          {"weight" : 0.5, "item" : "plantfibre"}
+        ],
+        "poolRounds" : [
+          [0.6, 1],
+          [0.4, 2]
+        ]
+      } ]
+    ],
+    "wildwheatHarvest":[
+       [0, {
+         "fill" : [
+           {"item" : "wheatseed"},
+           {"item" : "wheat"}
+         ],
+         "pool" : [
+           {"weight" : 0.5, "item" : "wheatseed"},
+           {"weight" : 0.5, "item" : "plantfibre"}
+         ],
+         "poolRounds" : [
+           [0.6, 1],
+           [0.4, 2]
+         ]
+       } ]
+     ]
+}

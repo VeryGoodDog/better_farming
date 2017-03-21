@@ -1,0 +1,66 @@
+[
+  {
+    "op" : "add",
+    "path" : "/debugFarm",
+    "value": [
+      [0, {
+        "fill" : [
+          {"pool" : "automatoHarvest"},
+          {"pool" : "avesmingoHarvest"},
+          {"pool" : "bananaHarvest"},
+          {"pool" : "beakseedHarvest"},
+          {"pool" : "boltbulbHarvest"},
+          {"pool" : "bonebooHarvest"},
+          {"pool" : "carrotHarvest"},
+          {"pool" : "chiliHarvest"},
+          {"pool" : "coffeeHarvest"},
+          {"pool" : "cocoaHarvest"},
+          {"pool" : "coralcreepHarvest"},
+          {"pool" : "cornHarvest"},
+          {"pool" : "cottonHarvest"},
+          {"pool" : "crystalplantHarvest"},
+          {"pool" : "currentcornHarvest"},
+          {"pool" : "diodiaHarvest"},
+          {"pool" : "dirturchinHarvest"},
+          {"pool" : "eggshootHarvest"},
+          {"pool" : "feathercrownHarvest"},
+          {"pool" : "grapesHarvest"},
+          {"pool" : "kiwiHarvest"},
+          {"pool" : "neonmelonHarvest"},
+          {"pool" : "oculemonHarvest"},
+          {"pool" : "pearlpeaHarvest"},
+          {"pool" : "pineappleHarvest"},
+          {"pool" : "potatoHarvest"},
+          {"pool" : "pussplumHarvest"},
+          {"pool" : "reefpodHarvest"},
+          {"pool" : "riceHarvest"},
+          {"pool" : "sugarcaneHarvest"},
+          {"pool" : "tomatoHarvest"},
+          {"pool" : "toxictopHarvest"},
+          {"pool" : "wheatHarvest"},
+          {"pool" : "mushroomHarvest"},
+          {"pool" : "flowerredHarvest"},
+          {"pool" : "flowerblueHarvest"},
+          {"pool" : "flowerspringHarvest"},
+          {"pool" : "floweryellowHarvest"},
+          {"pool" : "thornplantHarvest"},
+          {"pool" : "silkHarvest"},
+          {"pool" : "wildboltbulbHarvest"},
+          {"pool" : "wildcarrotHarvest"},
+          {"pool" : "wildcurrentcornHarvest"},
+          {"pool" : "wilddiodiaHarvest"},
+          {"pool" : "wilddirturchinHarvest"},
+          {"pool" : "wildeggshootHarvest"},
+          {"pool" : "wildfeathercrownHarvest"},
+          {"pool" : "wildneonmelonHarvest"},
+          {"pool" : "wildoculemonHarvest"},
+          {"pool" : "wildpussplumHarvest"},
+          {"pool" : "wildreefpodHarvest"},
+          {"pool" : "wildsugarcaneHarvest"},
+          {"pool" : "wildtoxictopHarvest"}
+        ]
+      }
+      ]
+    ]
+  }
+]

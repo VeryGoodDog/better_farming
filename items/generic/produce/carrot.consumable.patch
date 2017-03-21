@@ -1,0 +1,13 @@
+[
+	{
+		"op":"remove",
+		"path":"/builder"
+	},{
+		"op":"remove",
+		"path":"/rottingMultiplier"
+	},{
+		"op":"replace",
+		"path":"/maxStack",
+		"value": 100
+	}
+]

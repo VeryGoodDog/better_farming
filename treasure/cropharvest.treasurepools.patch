@@ -69,4 +69,382 @@
 {
  "op":"remove",
  "path":"/wheatHarvest/0/1/fill"
+},
+
+
+{
+ "op":"add",
+ "path":"/wildBoltbulbHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "boltbulbseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "boltbulb"},
+        {"weight" : 0.01, "item" : "boltbulbseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+},
+{
+ "op":"add",
+ "path":"/wildCarrotHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "carrotseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "carrot"},
+        {"weight" : 0.01, "item" : "carrotseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildCurrentCornHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "currentcornseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "currentcorn"},
+        {"weight" : 0.01, "item" : "currentcornseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildDiodiaHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "diodiaseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "diodia"},
+        {"weight" : 0.01, "item" : "diodiaseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildDirtUrchinHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "dirturchinseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "dirturchin"},
+        {"weight" : 0.01, "item" : "dirturchinseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildEggshootHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "eggshootseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "eggshoot"},
+        {"weight" : 0.01, "item" : "eggshootseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildFeathercrownHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "feathercrownseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "feathercrown"},
+        {"weight" : 0.01, "item" : "feathercrownseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildKiwiHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "kiwiseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "kiwi"},
+        {"weight" : 0.01, "item" : "kiwiseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildNeonMelonHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "neonmelonseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "neonmelon"},
+        {"weight" : 0.01, "item" : "neonmelonseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildOculemonHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "oculemonseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "oculemon"},
+        {"weight" : 0.01, "item" : "oculemonseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildPineappleHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "pineappleseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "pineapple"},
+        {"weight" : 0.01, "item" : "pineappleseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildPotatoHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "potatoseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "potato"},
+        {"weight" : 0.01, "item" : "potatoseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildPussplumHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "pussplumseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "pussplum"},
+        {"weight" : 0.01, "item" : "pussplumseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildReefpodHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "reefpodseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "reefpod"},
+        {"weight" : 0.01, "item" : "reefpodseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildSugarCaneHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "sugarcaneseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "sugar"},
+        {"weight" : 0.01, "item" : "sugarcaneseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildToxictopHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "toxictopseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "toxictop"},
+        {"weight" : 0.01, "item" : "toxictopseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildWartWeedHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "wartweedseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "wartweed"},
+        {"weight" : 0.01, "item" : "wartweedseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+
+},
+{
+ "op":"add",
+ "path":"/wildWheatHarvest",
+ "value":[
+    [0, {
+      "fill" : [
+        {"item" : "wheatseed"}
+      ],
+      "pool" : [
+        {"weight" : 0.89, "item" : "wheat"},
+        {"weight" : 0.01, "item" : "wheatseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
 }]
